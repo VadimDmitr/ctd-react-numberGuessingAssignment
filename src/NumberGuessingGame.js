@@ -75,5 +75,4 @@ const MAX_ATTEMPTS = 5;
     );
   }
 
-
 export default NumberGuessingGame;
